@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "streamers": [
+    {
+      "stocks": {
+        "valuation": 0,
+        "rising": true
+      },
+      "verified": true,
+      "enabled": true,
+      "liveData": {
+        "live": false,
+        "lastStreamTimestamp": "2019-01-14T08:48:09.102Z"
+      },
+      "profile": {
+        "location": "Los Angeles, CA"
+      },
+      "forceFeature": true,
+      "name": "Hyphonix",
+      "verified": true,
+      "banned": false,
+      "images": {
+        "avatars": {
+          "default": {
+            "width": 88,
+            "url": "https://yt3.ggpht.com/-yBZcE1sx8CQ/AAAAAAAAAAI/AAAAAAAAAAA/LcOhKvoqFGE/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "height": 88
+          },
+          "medium": {
+            "width": 240,
+            "url": "https://yt3.ggpht.com/-yBZcE1sx8CQ/AAAAAAAAAAI/AAAAAAAAAAA/LcOhKvoqFGE/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "height": 240
+          },
+          "high": {
+            "height": 800,
+            "width": 800,
+            "url": "https://yt3.ggpht.com/-yBZcE1sx8CQ/AAAAAAAAAAI/AAAAAAAAAAA/LcOhKvoqFGE/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        }
+      },
+      "socials": {
+        "yt": "UCaFpm67qMk1W1wJkFhGXucA",
+        "twitter": "HyphonixTwitch",
+        "discord": "nSQac2M",
+        "donate": "https://streamlabs.com/hyphonix1",
+        "reddit": "HyphonixRS"
+      },
+      "id": "hyphonix"
+    }
+  ],
+  "robotData": {
+    "robotId": 145,
+    "online": false,
+    "fullLink": "http://www.robotstreamer.com/robot/145"
+  },
+  "cxLoc": false,
+  "analytics": {
+    "hrViewPoints": [
+        0
+    ]
+  },
+  "servingInstance": "aef-default-20190108t222011-thv9"
+}
