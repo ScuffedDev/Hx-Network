@@ -48,6 +48,46 @@
       "id": "hyphonix"
     },
     {
+      "enabled": true,
+      "verified":true,
+      "liveData": {
+        "live": false,
+        "lastStreamTimestamp": "2019-01-13T12:15:10.006Z"
+      },
+      "profile": {
+        "location": "Los Angeles, CA"
+      },
+      "images": {
+        "avatars": {
+          "high": {
+            "width": 800,
+            "url": "https://yt3.ggpht.com/a-/AN66SAzxjqOEFRITAiIK9U6tUxB5F1Uxs4ViA1qVlw=s800-mo-c-c0xffffffff-rj-k-no",
+            "height": 800
+          },
+          "default": {
+            "height": 88,
+            "width": 88,
+            "url": "https://yt3.ggpht.com/a-/AN66SAzxjqOEFRITAiIK9U6tUxB5F1Uxs4ViA1qVlw=s88-mo-c-c0xffffffff-rj-k-no"
+          },
+          "medium": {
+            "width": 240,
+            "url": "https://yt3.ggpht.com/a-/AN66SAzxjqOEFRITAiIK9U6tUxB5F1Uxs4ViA1qVlw=s240-mo-c-c0xffffffff-rj-k-no",
+            "height": 240
+          }
+        }
+      },
+      "name": "Hx News",
+      "socials": {
+        "yt": "UCStEQ9BjMLjHTHLNA6cY9vg"
+      },
+      "stocks": {
+        "rising": true,
+        "valuation": 0,
+        "disabled": true
+      },
+      "id": "hxnews"
+    },
+    {
       "profile": {
         "sponsorable": false,
         "bpm": 0,
