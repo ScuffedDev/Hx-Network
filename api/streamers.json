@@ -46,6 +46,48 @@
         "reddit": "HyphonixRS"
       },
       "id": "hyphonix"
+    },
+    {
+      "profile": {
+        "sponsorable": false,
+        "bpm": 0,
+        "location": "Hell"
+      },
+      "socials": {
+        "yt": "UCv9Edl_WbtbPeURPtFDo-uA"
+      },
+      "images": {
+        "avatars": {
+          "default": {
+            "height": 88,
+            "width": 88,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-2eosD4j0L8NUjXf9MaFKRZba9FXHlYfD3uqkH2FYrovI14RV"
+          },
+          "medium": {
+            "width": 240,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-2eosD4j0L8NUjXf9MaFKRZba9FXHlYfD3uqkH2FYrovI14RV",
+            "height": 240
+          },
+          "high": {
+            "height": 800,
+            "width": 800,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-2eosD4j0L8NUjXf9MaFKRZba9FXHlYfD3uqkH2FYrovI14RV"
+          }
+        }
+      },
+      "name": "Lies Poseidon",
+      "stocks": {
+        "valuation": 0,
+        "rising": false
+      },
+      "cordonUpdates": true,
+      "verified": false,
+      "banned": true,
+      "liveData": {
+        "live": false
+      },
+      "enabled": true,
+      "id": "ice_poseidon"
     }
   ],
   "robotData": {
