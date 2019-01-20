@@ -88,6 +88,45 @@
       "id": "cxnews"
     },
     {
+      "enabled": false,
+      "liveData": {
+      },
+      "profile": {
+        "location": "Los Angeles, CA"
+      },
+      "name": "Ernest",
+      "images": {
+        "avatars": {
+          "high": {
+            "height": 800,
+            "width": 800,
+            "url": "https://yt3.ggpht.com/a-/AAuE7mDdfGUxqUvwObMuwuuZtzx-5PX65dlvRSc6=s800-mo-c-c0xffffffff-rj-k-no"
+          },
+          "default": {
+            "width": 88,
+            "url": "https://yt3.ggpht.com/a-/AAuE7mDdfGUxqUvwObMuwuuZtzx-5PX65dlvRSc6=s88-mo-c-c0xffffffff-rj-k-no",
+            "height": 88
+          },
+          "medium": {
+            "height": 240,
+            "width": 240,
+            "url": "https://yt3.ggpht.com/a-/AAuE7mDdfGUxqUvwObMuwuuZtzx-5PX65dlvRSc6=s240-mo-c-c0xffffffff-rj-k-no"
+          }
+        }
+      },
+      "socials": {
+        "donate": "https://streamlabs.com/lordvoldesad",
+        "yt": "UCPkOhci8gkwL7p6hxIJ2WQw",
+        "twitter": "Voldesad"
+      },
+      "stocks": {
+        "valuation": 0,
+        "rising": false
+      },
+      "verified": true,
+      "id": "gray"
+    },
+    {
       "profile": {
         "sponsorable": false,
         "bpm": 0,
